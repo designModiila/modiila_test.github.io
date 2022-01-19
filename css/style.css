@@ -1,0 +1,5 @@
+.wrap{width: 1000px; height: 360px; margin: 0 auto; background: pink; border-radius: 25px;}
+.wrap h1{padding: 10px; background: lightgrey; text-align: center; border-radius: 25px 25px 0 0;}
+.wrap .box_wrap{margin: 0 auto;}
+.wrap .box_wrap div{width: calc(25% - 10px); margin-right: 13px; height: 250px; float: left; box-sizing: border-box; text-align: center; line-height: 250px; background: hotpink;}
+.wrap .box_wrap div:last-child{margin-right: 0;}
